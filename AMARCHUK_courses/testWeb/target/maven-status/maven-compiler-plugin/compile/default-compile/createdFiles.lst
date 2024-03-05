@@ -1,0 +1,3 @@
+test/mvc/config/SpringConfig.class
+test/mvc/config/MySpringMvcDispatcherSerlvetIntitializer.class
+test/mvc/Controllers/TestController.class
